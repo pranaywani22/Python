@@ -1,5 +1,6 @@
 '''
 Author:- Pranay Ajitkumar Wani
+in this file I have practiced how to creat tupple
 '''
 t=(1,3,4,5) #a tupple cant be edited onece created
 # print(t[0]) not possible
