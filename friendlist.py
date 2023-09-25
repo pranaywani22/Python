@@ -1,5 +1,6 @@
 '''
 Author:- Pranay Ajitkumar Wani
+This code is structured in python to add the names of my friends and make a list of it
 '''
 t1 = input("Enter Friend Name 1: \t ")
 t2 = input("Enter Friend Name 2: \t ")
