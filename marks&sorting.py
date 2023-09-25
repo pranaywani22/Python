@@ -1,5 +1,6 @@
 '''
 Author:-Pranay Ajitkuamr Wani
+This file is structured in python programming to input the marks and then sorting the marks 
 '''
 s1= input("Enter your name followed by marks: ")
 s2= input("Enter your name followed by marks: ")
